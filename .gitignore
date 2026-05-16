@@ -1,0 +1,21 @@
+﻿# 编译输出
+Debug/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+
+# IDE 配置
+.settings/
+
+# 临时文件
+init_git.bat
+test_write.txt
+
+# 系统文件
+Thumbs.db
+.DS_Store
